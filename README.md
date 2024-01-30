@@ -8,8 +8,8 @@ Search by Name: Enables users to search for a patient by their name and displays
 List Length: Shows the total number of patients currently registered in the hospital.<br>
 Print List: Displays the details of all patients in the database.<br>
 Change Patient Name: Allows users to update the name of a patient in the database.<br>
-Insert New at Front: Adds a new patient to the beginning of the patient list.<br>
-## Potential Failures:
+Insert New at Front: Adds a new patient to the beginning of the patient list.
+<h2> Potential Failures:</h2>
 
 The program might terminate unexpectedly if insufficient patients are present in the database during deletion.<br>
 Input errors could occur if the user enters invalid data types or formats during patient registration.
